@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+    font-family:tahoma;
+}
+
+section {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+p {
+    font-size: 15px;
+    color: #fff;
+    margin-left:15px;
+}
+
+.box {
+    float: left;
+    background: #615d5d;
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+    color: aquamarine;
+}
+
+.red {
+    background-color: red;
+    padding: 10px;
+}
+
+.green {
+    background-color: green;
+    padding: 10px;
+}
+
+.orange {
+    background-color: orange;
+    padding: 10px;
+}
+
+.box1 {
+    height: 100px;
+    width: 33.33%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.box2 {
+    height: 100px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.box3 {
+    height: 100px;
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.box4 {
+    height: 100px;
+    width: 70%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.box5 {
+    height: 100px;
+    width: 15%;
+    float: left;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+.color1 {
+    background: #5cb90d;
+    height: 100%;
+}
+
+.color2 {
+    background: #0088fd;
+    height: 100%;
+}
+
+.color3 {
+    background: #ff9634;
+    height: 100%;
+}
+
+.color4 {
+    background: #b12dfd;
+    height: 100%;
+}
+
+
+.row-one, .row-two{
+	width: 100%;
+	overflow:hidden;
+}
+.box-one{
+	float:left;
+	width:26%;
+	background-color: #18b1c56b;
+	margin: 10px;
+	padding: 10px;
+}
+.box-two{
+	float:left;
+	width:26%;
+	background-color: #18b1c56b;
+	margin: 10px;
+	padding: 10px;
+}
+.box-three{
+	float:left;
+	width:26%;
+	background-color: #18b1c56b;
+	margin: 10px;
+	padding: 10px;
+}
+
+.box-four{
+	float:left;
+	width:26%;
+	background-color: #18b1c56b;
+	margin: 10px;
+	padding: 10px;
+}
+.box-five{
+	float:left;
+	width:26%;
+	background-color: #18b1c56b;
+	margin: 10px;
+	padding: 10px;
+}
+.box-six{
+	float:left;
+	width:26%;
+	background-color: #18b1c56b;
+	margin: 10px;
+	padding: 10px;
+}
+
+.newsec{
+	width: 1080px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow: hidden;
+}
+
+.newbox{
+	color:black;
+}
+
+h1{
+	margin:15px;
+	font-size: 28px;
+}
+.box11{
+    float:left;
+	width:30%;
+	margin: 10px;
+	
+}
+.box22{
+    float:left;
+	width:30%;
+	margin: 10px;
+	
+}
+.images img {
+    width: 325px;
+    height: 275px;
+}
+.section{
+	margin: 0;
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+h2{
+	text-transform: uppercase;
+	font-size: 30px;
+	text-align: center;
+}
